@@ -1,0 +1,1 @@
+This repository demonstrates a bug in Expo Go related to the unreliability of background tasks.  The bug is showcased in `backgroundTaskBug.js` and a potential solution is provided in `backgroundTaskSolution.js`. The issue primarily manifests in the Expo Go client, suggesting a discrepancy between the Go client's background task management and the behavior in a standalone build.
