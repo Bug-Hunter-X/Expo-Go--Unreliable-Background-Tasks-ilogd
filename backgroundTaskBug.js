@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Go app to test an app that uses a background task. The background task may not run reliably, or it may stop unexpectedly. This can be especially problematic if the task is essential for the app's functionality.
